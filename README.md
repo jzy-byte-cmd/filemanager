@@ -1,6 +1,7 @@
 # filemanager
 一个文件分类程序
 
+详情可见master下的软件说明.docx
                        文件分类系统 apha 0.1 使用说明
 双击filemanager.exe文件开始使用
 
