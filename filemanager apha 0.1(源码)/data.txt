@@ -1,0 +1,9 @@
+exe
+C:\Users\jinzh\Desktop\
+classified
+*s
+C:\Users\jinzh\Desktop\PSTools\
+true
+false
+true
+true
